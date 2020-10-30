@@ -29,6 +29,10 @@ body{
 .main--wrap{
     background-color: hsl(210, 46%, 95%);
     padding: 170px 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
 }
 
 .container--wrap{
